@@ -36,6 +36,8 @@
 
 # Kill processes again
 `sudo pkill -fi 'trend'`
+
 # Delete the directory
+`sudo rm -rf /Library/Application\ Support/TrendMicro/`
 `sudo rm -rf /Library/Application\ Support/TrendMicro/`
 
